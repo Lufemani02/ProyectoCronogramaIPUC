@@ -9,7 +9,7 @@ El sistema permite registrar disponibilidad, generar cronogramas visuales y dete
 - 📅 **Gestión de cronogramas**: creación y visualización de turnos semanales.  
 - ✅ **Disponibilidad de servidores**: registro sencillo de horarios disponibles.  
 - ⚡ **Detección de conflictos**: alertas en caso de traslapes o asignaciones incorrectas.  
-- 🔒 **Gestión por roles**: administradores, líderes de comité y servidores.  
+- 🔒 **Gestión por roles**: administradores, líderes de comité y en el futuro servidores(Miembros).  
 - 📊 **Reportes y seguimiento** para facilitar la coordinación.  
 
 ---
