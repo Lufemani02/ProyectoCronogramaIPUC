@@ -16,7 +16,7 @@ El sistema permite registrar disponibilidad, generar cronogramas visuales y dete
 
 ## 🛠️ Tecnologías utilizadas  
 - **Frontend:** HTML, CSS, JavaScript (Vanilla/Bootstrap).  
-- **Backend / DB:** Firebase (Firestore y Auth).  
+- **Backend / DB:** MySQL, Node.js, Express.  
 - **Metodología:** Design Thinking + Ágil (Kanban).  
 
 ---
@@ -29,7 +29,7 @@ El sistema permite registrar disponibilidad, generar cronogramas visuales y dete
 ---
 
 ## 🚦 Estado del proyecto  
-✅ En fase de Analisis.  
+✅ En fase de Diseño.  
 
 ---
 
